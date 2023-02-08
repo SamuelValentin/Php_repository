@@ -1,7 +1,4 @@
 <?php
 
-$name = 'Home';
-
-require "Views/index.view.php";
-
-
+require 'functions.php';
+require 'routes.php';
