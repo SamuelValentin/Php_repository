@@ -7,5 +7,4 @@
         <p>Estamos na nossa historia</p>
     </div>
 
-</body>
-</html>
+<?php require('partials/footer.php');?>

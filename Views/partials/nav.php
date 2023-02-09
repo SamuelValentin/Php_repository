@@ -40,7 +40,7 @@
 
             <a href="/about" class="<?= $_SERVER['REQUEST_URI'] === '/about' ? 'bg-gray-900 text-white' : 'text-gray-300' ?> hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">About</a>
 
-            <a href="/notes" class="<?= $_SERVER['REQUEST_URI'] === '/notes' ? 'bg-gray-900 text-white' : 'text-gray-300' ?> hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Notas</a>
+            <a href="/notes" class="<?= $_SERVER['REQUEST_URI'] === '/notes' ? 'bg-gray-900 text-white' : 'text-gray-300' ?> hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Notes</a>
           </div>
         </div>
       </div>

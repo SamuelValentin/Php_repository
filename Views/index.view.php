@@ -6,5 +6,4 @@
         <h3 class="text-3xl font-bold mb-8">Flamengo</h3>
     </div>
 
-</body>
-</html>
+<?php require('partials/footer.php');?>
